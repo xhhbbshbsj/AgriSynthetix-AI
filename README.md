@@ -70,11 +70,9 @@ npm start
 
 ## Performance & Research Impact
 
-## 📊 Performance & Research Impact
-
 Based on the integrated model, the system achieves a registered prediction accuracy of ~98% for structured tabular data. By focusing on the Presidency Division (Nadia, Murshidabad, etc.), the project highlights how data-driven interventions can bridge the productivity gap and foster rural resilience.
 
-## 🤝 Acknowledgments
+## Acknowledgments
 
 - **Research Paper**: Deep Synthesis of AI-Based Crop Yield Prediction Systems: Integrating Pedo-Climatic Intelligence for Precision Agriculture
 - **Data Providers**: NASA Langley Research Center, Open-Meteo, and ISRIC World Soil Information
